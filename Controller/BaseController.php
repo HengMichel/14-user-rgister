@@ -2,7 +2,6 @@
 
 namespace Controller;
 
-
 use Service\Session;
 
 abstract class BaseController
